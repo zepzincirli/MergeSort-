@@ -7,11 +7,5 @@ Proje 2
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
 
+<img src="https://github.com/zepzincirli/MergeSort-/blob/main/MergeSort.PNG">
 
-       [16,21,11,8,12,22]
-[16,21,11]        [8,12,22]
-[16]  [21,11]     [8,12]  [22]
-[16] [21] [11]    [8] [12] [22]
-[16]  [11,21]     [8,12]  [22]
-[11,16,21]        [8,12,22]
-       [8,11,12,16,21,22]
